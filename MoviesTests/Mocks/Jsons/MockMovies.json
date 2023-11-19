@@ -1,0 +1,50 @@
+{
+  "dates": {
+    "maximum": "2023-11-22",
+    "minimum": "2023-10-11"
+  },
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/t5zCBSB5xMDKcDqe91qahCOUYVV.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 507089,
+      "original_language": "en",
+      "original_title": "Five Nights at Freddy's",
+      "overview": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.",
+      "popularity": 1331.226,
+      "poster_path": "/A4j8S6moJS2zNtRR8oWF08gRnL5.jpg",
+      "release_date": "2023-10-25",
+      "title": "Five Nights at Freddy's",
+      "video": false,
+      "vote_average": 7.983,
+      "vote_count": 2224
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wl4NWiZwpzZH67HiDgpDImLyds9.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 299054,
+      "original_language": "en",
+      "original_title": "Expend4bles",
+      "overview": "Armed with every weapon they can get their hands on and the skills to use them, The Expendables are the world’s last line of defense and the team that gets called when all other options are off the table. But new team members with new styles and tactics are going to give “new blood” a whole new meaning.",
+      "popularity": 1075.05,
+      "poster_path": "/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg",
+      "release_date": "2023-09-15",
+      "title": "Expend4bles",
+      "video": false,
+      "vote_average": 6.486,
+      "vote_count": 717
+    }
+  ],
+  "total_pages": 4,
+  "total_results": 2047
+}
